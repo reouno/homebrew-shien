@@ -6,7 +6,7 @@ class Shien < Formula
   
   on_macos do
     url "https://github.com/reouno/shien/releases/download/v0.1.0/shien-darwin-arm64.tar.gz"
-    sha256 "81873165bb4464306ad9517b0605a5578a5697882ea5f713c62b8b2ec1a01618"
+    sha256 "sha256:e79245675112ac76bac32756263bd222ca9fcac22d2e9f242924ceeea0e8e7cd"
   end
 
   def install
