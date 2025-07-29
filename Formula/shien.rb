@@ -2,7 +2,7 @@ class Shien < Formula
   desc "Background daemon application to support knowledge workers"
   homepage "https://github.com/reouno/shien"
   url "https://github.com/reouno/shien/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "3ba1e6162a9f3ea970df91f7bfb75b65733e5697d4c91733ce3891e1cdbefbee"
   license "MIT"
   head "https://github.com/reouno/shien.git", branch: "main"
 
