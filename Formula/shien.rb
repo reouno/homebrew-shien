@@ -1,12 +1,12 @@
 class Shien < Formula
   desc "Background daemon application to support knowledge workers"
   homepage "https://github.com/reouno/shien"
-  version "0.1.2"
+  version "0.1.3"
   license "MIT"
   
   on_macos do
-    url "https://github.com/reouno/shien/releases/download/v0.1.2/shien-darwin-arm64.tar.gz"
-    sha256 "d151184989c26a09b8655bde9be2c4ed334b30cd43464960226459d32036a720"
+    url "https://github.com/reouno/shien/releases/download/v0.1.3/shien-darwin-arm64.tar.gz"
+    sha256 "20a8fb570f1f6b219b337910696f0f6e70aeee6d63ae692b437118d260a4d3fa"
   end
 
   def install
